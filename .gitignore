@@ -1,1 +1,4 @@
 build/
+.editorconfig
+make.cmd
+
