@@ -3,15 +3,16 @@
 This is Synonyms, a plugin for the
 [Keypirinha](http://keypirinha.com) launcher.
 
-**TODO:** write a brief description of this package. Optionally add a
-screenshot.
+Finds synonyms of a word.
+
+![image](https://github.com/user-attachments/assets/703a49fd-e5d3-435d-af5d-feb29e9b23d0)
+
 
 
 ## Download
 
-**TODO:** indicate where the latest `.keypirinha-package` file can be
-downloaded. For example a URL to the `releases` list like:
-https://github.com/USERNAME/keypirinha-PACKAGE/releases
+Find the latest release at:
+https://github.com/andrewbaxter439/keypirinha-Synonyms/releases
 
 
 ## Install
