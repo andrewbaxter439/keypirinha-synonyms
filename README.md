@@ -28,44 +28,20 @@ move it to the `InstalledPackage` folder located at:
 
 ## Usage
 
-**TODO:** list the items, if any, inserted to the Catalog by the plugin(s) of
-this package. Some plugins only make suggestions, in which case a description of
-what kind of suggestions are to be expected by the user may help.
+Get an API key from https://api-ninjas.com/.
 
+Enter a word to look up synonyms. 
+'Enter' to copy selected word or Ctrl+# to copy numbered item.
 
 ## Change Log
 
-**TODO:** describe notable changes for each release. Below is a template for
-version 1.0.
 
-### v1.0
+### v0.0.1
 
-* Added foo item
-* Fixed bug that was doing bad things when item "bar" was selected
-
+* A working version which returns words!
 
 ## License
 
-**TODO:** recommended section. Below is an example that goes with the default
-LICENSE file (MIT license). Do not forget to add your name in the `LICENSE`
-file!
 
 This package is distributed under the terms of the MIT license.
 
-
-## Credits
-
-**TODO:** optional section.
-
-
-## Contribute
-
-**TODO:** optional section. Below is a template example, based on the one found
-in Keypirinha's Packages repository.
-
-1. Check for open issues or open a fresh issue to start a discussion around a
-   feature idea or a bug.
-2. Fork this repository on GitHub to start making your changes to the **dev**
-   branch.
-3. Send a pull request.
-4. Add yourself to the *Contributors* section below (or create it if needed)!
